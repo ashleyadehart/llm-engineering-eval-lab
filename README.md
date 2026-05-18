@@ -56,12 +56,15 @@ llm-engineering-eval-lab/
 ## How to Run Tests
 
 ### 1. Install dependencies
+```
 pip install -r requirements.txt
+```
 
 ### 2. Run tests
 From the project root:
-
+```
 pytest
+```
 
 ---
 
