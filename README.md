@@ -25,7 +25,7 @@ This repository is designed to practice and explore:
 ---
 
 ## Repository Structure
-
+```
 llm-engineering-eval-lab/
 │
 ├── tasks/
@@ -49,6 +49,7 @@ llm-engineering-eval-lab/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
