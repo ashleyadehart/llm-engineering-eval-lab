@@ -118,6 +118,7 @@ Explains:
 ## Design Philosophy
 This repository is built around the idea that:
 > Real engineering skill is not just writing code, but reasoning correctly about system behavior under constraints.
+
 Tasks emphasize:
 - state consistency
 - correctness over cleverness
